@@ -13,19 +13,19 @@ test
 * [Questions](#questions)
 
 ## Installation
-test
+naod
 
 ## Usage
-test
+naod
 
 ## License
-None
+GPL 3.0
 
 ## Contributing
-test
+naod
 
 ## Tests
-test
+naod
 
 ## Questions
-test
+naod
