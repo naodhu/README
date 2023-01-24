@@ -17,12 +17,6 @@ const questions = [
         type: "input",
         name: "description",
         message: "Please provide a description of your project.",
-        default: 'Project Title',
-        // validate: function(answer){
-        //     if(answer.length < 1){
-        //         return console.log("A valid project title is required");
-        //     }
-        // }
       },
       {
         type: "input",
