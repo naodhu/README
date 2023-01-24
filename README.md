@@ -25,3 +25,11 @@ The README has some automatically generated badges for your repo courtesy of shi
 ## Usage
 When you run `node index.js`, the application uses the `inquirer` package to prompt you in the command line with a series of questions about your GitHub and about your pr<img width="1133" alt="Screen Shot 2023-01-24 at 22 59 08 pm" src="https://user-images.githubusercontent.com/113915529/214286137-9e4e89f4-e326-46d6-a720-9531f72940c5.png">
 oject.
+
+## Demo
+
+![Untitled_ Jan 24, 2023 11_33 PM](https://user-images.githubusercontent.com/113915529/214293198-98579f28-a740-4c76-9b8b-24efcd699cfa.gif)
+
+
+
+
